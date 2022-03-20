@@ -40,7 +40,7 @@ const Footer = () => {
         <p className="footer__text">
           © {new Date().getFullYear()} - Developed by{' '}
           <a href="https://github.com/krrahul23" target="_blank" rel="noopener noreferrer">
-            Rahul Kumar
+            Rahul
           </a>{' '}
           with ❤️.
         </p>
